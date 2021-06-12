@@ -2,6 +2,8 @@
 This repository contains a minimalist log handler for the
 [logger](https://erlang.org/doc/man/logger.html) OTP application.
 
+**This application is now included in [erl-mlog](https://github.com/exograd/erl-mlog).**
+
 # Usage
 Make sure to add the application as dependency in the Rebar3 configuration
 file. After that, the formatter is configured as any other logger handler,
